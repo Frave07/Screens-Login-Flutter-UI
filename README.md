@@ -21,7 +21,7 @@ Follow me
 
 ### Login One
 
-<img src="https://user-images.githubusercontent.com/76232843/113467567-55cc4900-9409-11eb-962b-609bb96af089.png" alt="Frave Developer - image" width="200">
+<img src="https://user-images.githubusercontent.com/76232843/113467567-55cc4900-9409-11eb-962b-609bb96af089.png" alt="Frave Developer - image">
 
 ### Login Two
 
