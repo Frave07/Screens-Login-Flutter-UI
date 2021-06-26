@@ -11,7 +11,7 @@ class MainPage extends StatelessWidget
     return Scaffold(
       backgroundColor: Colors.white,
       appBar: AppBar(
-        title: Text('Frave Developer', style: GoogleFonts.getFont('Inter', color: Colors.black87)),
+        title: Text('Frave Developer', style: GoogleFonts.getFont('Roboto', color: Colors.black87)),
         elevation: 0,
         backgroundColor: Colors.white,
         centerTitle: true,
@@ -32,6 +32,7 @@ class MainPage extends StatelessWidget
               _ButtonCustom(title: 'Login Seven', onPressed: ()=> Navigator.of(context).pushNamed('loginSevenPage')),
               _ButtonCustom(title: 'Login Eight', onPressed: ()=> Navigator.of(context).pushNamed('loginEightPage')),
               _ButtonCustom(title: 'Login Nine',  onPressed: ()=> Navigator.of(context).pushNamed('LoginNinePage')),
+              _ButtonCustom(title: 'Login Ten',   onPressed: ()=> Navigator.of(context).pushNamed('LoginTenPage')),
 
             ],
           ),

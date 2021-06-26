@@ -5,6 +5,7 @@ import 'package:nulti_auth/Pages/Login1/GetStarted.dart';
 import 'package:nulti_auth/Pages/Login1/IntroPage.dart';
 import 'package:nulti_auth/Pages/Login1/LoginOne.dart';
 import 'package:nulti_auth/Pages/Login1/SignUpOne.dart';
+import 'package:nulti_auth/Pages/Login10/Login.dart';
 import 'package:nulti_auth/Pages/Login2/LoginTwo.dart';
 import 'package:nulti_auth/Pages/Login2/SignUpTwo.dart';
 import 'package:nulti_auth/Pages/Login3/LogInThree.dart';
@@ -42,6 +43,7 @@ Map<String, Widget Function(BuildContext)> routes = {
   'registerSixPage'   : (_) => RegisterSixPage(),
   'loginSevenPage'    : (_) => LoginSevenPage(),
   'loginEightPage'    : (_) => LoginEightPage(),
-  'LoginNinePage'    : (_) => LoginNinePage(),
+  'LoginNinePage'     : (_) => LoginNinePage(),
+  'LoginTenPage'      : (_) => LoginTenPage(),
 
 };
