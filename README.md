@@ -43,7 +43,7 @@ Follow me
 
 ### Login Six
 
-<img src="./screenshots/ScreenSix.png" alt="Frave Developer - image">
+<img src="./Screenshots/ScreenSix.png" alt="Frave Developer - image">
 
 ### Login Seven
 
