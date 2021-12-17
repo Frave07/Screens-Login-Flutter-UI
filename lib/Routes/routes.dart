@@ -1,32 +1,31 @@
 
 import 'package:flutter/material.dart';
-
-import 'package:nulti_auth/Pages/Login1/GetStarted.dart';
-import 'package:nulti_auth/Pages/Login1/IntroPage.dart';
-import 'package:nulti_auth/Pages/Login1/LoginOne.dart';
-import 'package:nulti_auth/Pages/Login1/SignUpOne.dart';
-import 'package:nulti_auth/Pages/Login10/Login.dart';
-import 'package:nulti_auth/Pages/Login2/LoginTwo.dart';
-import 'package:nulti_auth/Pages/Login2/SignUpTwo.dart';
-import 'package:nulti_auth/Pages/Login3/LogInThree.dart';
-import 'package:nulti_auth/Pages/Login3/SignUpThree.dart';
-import 'package:nulti_auth/Pages/Login3/Verification.dart';
-import 'package:nulti_auth/Pages/Login4/SignInFour.dart';
-import 'package:nulti_auth/Pages/Login4/SignUpFour.dart';
-import 'package:nulti_auth/Pages/Login5/RegisterFive.dart';
-import 'package:nulti_auth/Pages/Login5/SignInFive.dart';
-import 'package:nulti_auth/Pages/Login6/LoginSix.dart';
-import 'package:nulti_auth/Pages/Login6/RegisterSix.dart';
-import 'package:nulti_auth/Pages/Login7/LoginSeven.dart';
-import 'package:nulti_auth/Pages/Login8/LoginEight.dart';
-import 'package:nulti_auth/Pages/Login9/LoginNine.dart';
-import 'package:nulti_auth/Pages/MainPage.dart';
+import 'package:nulti_auth/screens/login1/get_started_screen.dart';
+import 'package:nulti_auth/screens/login1/intro_login_one_screen.dart';
+import 'package:nulti_auth/screens/login1/login_one_screen.dart';
+import 'package:nulti_auth/screens/login1/signup_one_screen.dart';
+import 'package:nulti_auth/screens/login10/login_ten_screen.dart';
+import 'package:nulti_auth/screens/login2/login_two_screen.dart';
+import 'package:nulti_auth/screens/login2/signup_two_screen.dart';
+import 'package:nulti_auth/screens/login3/logIn_three_screen.dart';
+import 'package:nulti_auth/screens/login3/signup_three_screen.dart';
+import 'package:nulti_auth/screens/login3/verification_screen.dart';
+import 'package:nulti_auth/screens/login4/login_four_screen.dart';
+import 'package:nulti_auth/screens/login4/signup_four_screen.dart';
+import 'package:nulti_auth/screens/login5/login_five_screen.dart';
+import 'package:nulti_auth/screens/login5/register_five_screen.dart';
+import 'package:nulti_auth/screens/login6/lofin_six_screen.dart';
+import 'package:nulti_auth/screens/login6/register_six_screen.dart';
+import 'package:nulti_auth/screens/login7/login_seven_screen.dart';
+import 'package:nulti_auth/screens/login8/login_eight_screen.dart';
+import 'package:nulti_auth/screens/login9/login_nine_screen.dart';
+import 'package:nulti_auth/screens/main_screen.dart';
 
 
 Map<String, Widget Function(BuildContext)> routes = {
 
   'mainPage'      : (_) => MainPage(),
-  'introPageOne'  : (_) => IntroPage(),
+  'introPageOne'  : (_) => IntroLoginOnePage(),
   'getStarted'    : (_) => GetStartedPage(),
   'loginOne'      : (_) => LoginOnePage(),
   'signUpOne'     : (_) => SignUpOnePage(),
@@ -35,7 +34,7 @@ Map<String, Widget Function(BuildContext)> routes = {
   'loginThree'    : (_) => LogInThreePage(),
   'signUpThree'   : (_) => SignUpThreePage(),
   'verificationThree'   : (_) => VerificationThreePage(),
-  'signInFourPage'    : (_) => SignInFourPage(),
+  'signInFourPage'    : (_) => LoginFourPage(),
   'signUpFour'        : (_) => SignUpFourPage(),
   'loginFivePage'     : (_) => LoginFivePage(),
   'registerFivePage'  : (_) => RegisterFivePage(),
