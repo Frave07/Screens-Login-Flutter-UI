@@ -23,23 +23,23 @@ Follow me
 
 ### Login One
 
-<img src="./screenshots/ScreenOne.png" alt="Frave Developer - image">
+<img src="./Screenshots/ScreenOne.png" alt="Frave Developer - image">
 
 ### Login Two
 
-<img src="./screenshots/ScreenTwo.png" alt="Frave Developer - image">
+<img src="./Screenshots/ScreenTwo.png" alt="Frave Developer - image">
 
 ### Login Three
 
-<img src="./screenshots/ScreenThree.png" alt="Frave Developer - image">
+<img src="./Screenshots/ScreenThree.png" alt="Frave Developer - image">
 
 ### Login Four
 
-<img src="./screenshots/ScreenFour.png" alt="Frave Developer - image">
+<img src="./Screenshots/ScreenFour.png" alt="Frave Developer - image">
 
 ### Login Five
 
-<img src="./screenshots/ScreenFive.png" alt="Frave Developer - image">
+<img src="./Screenshots/ScreenFive.png" alt="Frave Developer - image">
 
 ### Login Six
 
@@ -47,16 +47,16 @@ Follow me
 
 ### Login Seven
 
-<img src="./screenshots/ScreenSeven.png" alt="Frave Developer - image">
+<img src="./Screenshots/ScreenSeven.png" alt="Frave Developer - image">
 
 ### Login Eight
 
-<img src="./screenshots/ScreenEight.png" alt="Frave Developer - image">
+<img src="./Screenshots/ScreenEight.png" alt="Frave Developer - image">
 
 ### Login Nine
 
-<img src="./screenshots/Login9.png" alt="Frave Developer - Login Nine">
+<img src="./Screenshots/Login9.png" alt="Frave Developer - Login Nine">
 
 ### Login Ten
 
-<td><img src="./screenshots/Login10.png" alt="Frave Developer - Login Ten">
+<td><img src="./Screenshots/Login10.png" alt="Frave Developer - Login Ten">
